@@ -1,7 +1,4 @@
-
-![Untitled-1](https://github.com/Stow-git1917/Stow-git1917/assets/64157787/d62d6620-4f1c-49df-90b7-8dd888b90f2f)
-
-
+![Untitled-1](https://github.com/Stow-git1917/Stow-git1917/assets/64157787/b961da76-494a-4da8-ac9a-55912d7bff64)
 
 
 <a href="mailto:dan.c.stow@gmail.com" target="_blank" rel="noreferrer"> <picture> 
