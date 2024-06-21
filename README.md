@@ -3,7 +3,7 @@
 
 
 
-<a href="[dan.c.stow@gmail.com](mailto:dan.c.stow@gmail.com)" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-light.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+<a href="[dan.c.stow@gmail.com](mailto:dan.c.stow@gmail.com)" target="_blank" rel="noreferrer"> <picture> 
 <img src="https://github.com/Stow-git1917/Stow-git1917/assets/64157787/2761b65c-419c-407c-9609-1587bc1581e1" width="40" height="30" /> </picture> </a>
 
 
