@@ -10,3 +10,4 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dan.c.stow@gmail.com)
 [![Github](https://img.shields.io/github/followers/Stow-git1917?label=Follow&style=social)](https://github.com/Stow-git1917)
 
+<hr class="rounded">
