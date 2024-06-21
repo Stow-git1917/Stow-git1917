@@ -1,5 +1,5 @@
 
-![Untitled-1](https://github.com/Stow-git1917/Stow-git1917/assets/64157787/7b94b58e-340c-4676-ab4f-2cca38ba1a2d)
+![Untitled-1](https://github.com/Stow-git1917/Stow-git1917/assets/64157787/d62d6620-4f1c-49df-90b7-8dd888b90f2f)
 
 
 
