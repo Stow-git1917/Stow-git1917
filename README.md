@@ -1,13 +1,10 @@
 ![Untitled-1](https://github.com/Stow-git1917/Stow-git1917/assets/64157787/b961da76-494a-4da8-ac9a-55912d7bff64)
 
-hr.rounded {
-  border-top: 8px solid #6495ED;
-  border-radius: 5px;
-}
 
 
-<hr class="rounded">
-### Socials
+
+<hr class="rounded", color ="#FFFFFF">
+<h3> Socials </h3>
 <p align="left"> 
 <a href="mailto:dan.c.stow@gmail.com" target="_blank" rel="noreferrer"> <picture> 
 <img src="https://github.com/Stow-git1917/Stow-git1917/assets/64157787/2761b65c-419c-407c-9609-1587bc1581e1" width="40" height="30" /> </picture> </a>
