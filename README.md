@@ -2,7 +2,7 @@
 
 
 
-span style="color:blue"><hr class="rounded"></span>
+<hr class="rounded">
 
 <h3> Socials </h3>
 <p align="left"> 
