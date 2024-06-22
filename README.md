@@ -1,5 +1,5 @@
 <br>
-<h2> Socials </h2>
+<h3> Socials </h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/hejazizo/](https://www.linkedin.com/in/danstow/))
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dan.c.stow@gmail.com)
